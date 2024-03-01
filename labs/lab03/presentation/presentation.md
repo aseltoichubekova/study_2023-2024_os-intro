@@ -1,14 +1,13 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа №3
+subtitle: Операционные системы
 author:
-  - Кулябов Д. С.
+  - Тойчубекова Асель Нурлановна
 institute:
   - Российский университет дружбы народов, Москва, Россия
-  - Объединённый институт ядерных исследований, Дубна, Россия
-date: 01 января 1970
+date: 29 января 2024
 
 ## i18n babel
 babel-lang: russian
@@ -26,6 +25,8 @@ header-includes:
  - '\makeatletter'
  - '\beamer@ignorenonframefalse'
  - '\makeatother'
+ 
+ 
 ---
 
 # Информация
